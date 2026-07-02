@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知识库/文献综述/文献综述.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "文献综述"
+              "title": "README"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知识库/文献综述/文献综述.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "文献综述 的大纲"
+              "title": "README 的大纲"
             }
           }
         ],
@@ -185,14 +185,15 @@
   },
   "active": "97ca1f6afc3271d9",
   "lastOpenFiles": [
-    "知识库/综合分析/国土空间承载力到低空空域承载力的认知迁移.md",
     "概览.md",
+    "目录.md",
     "说明文档.md",
+    "知识库/文献综述/文献综述.md",
+    "README.md",
+    "知识库/综合分析/国土空间承载力到低空空域承载力的认知迁移.md",
     "日志.md",
     "工作规则.md",
     "研究意图.md",
-    "目录.md",
-    "知识库/文献综述/文献综述.md",
     "知识库/摘要/空域治理/空—地协同低空空域划设技术.md",
     "知识库/概念/容量评估/低空基础设施分类框架.md",
     "知识库/概念/空域治理/低空经济产业考核指标体系.md",
@@ -216,7 +217,6 @@
     "知识库/政策/国际/GCC垂直起降场监管框架.md",
     "知识库/政策/中国/通用航空经营许可管理规定.md",
     "知识库/实体/国家地区/新加坡.md",
-    "知识库/实体/国家地区/日本.md",
     "知识库/摘要/应用案例",
     "原始素材/文章/产业经济",
     "原始素材/政策文件/政策解读及意见",

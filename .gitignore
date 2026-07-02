@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Windows
+Thumbs.db
+
+# Obsidian — personal workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/hotkeys.json
+
+# Internal / work-in-progress
+_待审核/
+_scripts/
+日志.md
+工作规则.md
+说明文档.md
+研究意图.md
+目录.md
+概览.md
